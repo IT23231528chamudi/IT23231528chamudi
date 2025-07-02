@@ -7,7 +7,7 @@
 - 🌱 Learning TypeScript, postgresql and Node.js
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
 - 📫 Reach me at: it23231528@my.sliit.lk
-- Personal Github Account:  
+- Personal Github Account: https://github.com/Sashanka2001
  
 ## Programming Languages
 ![python](https://skillicons.dev/icons?i=python)
@@ -85,7 +85,7 @@
 
 ## 📱 Connect with Me
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>](https://www.linkedin.com/in/sashanka-rathnayaka-5761ab267/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>](https://github.com/IT23231528chamudi)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>](https://github.com/Sashanka2001)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" alt="HackerRank"/>](https://www.hackerrank.com/profile/chamudisashanka1)
 
-Thanks for visiting my profile! Feel free to check out my repositories and reach out for collaboration or just to say hi! 😄
+Thanks for visiting my profile! 
