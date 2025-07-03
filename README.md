@@ -8,7 +8,7 @@
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
 - 📫 Reach me at: it23231528@my.sliit.lk
 - Personal Github Account: https://github.com/Sashanka2001
-- Portfolio : https://my-portfolio-website-6y0gyf3mj-sasas-projects-8433159f.vercel.app/
+- Portfolio :  https://my-portfolio-website-lvj4.vercel.app/
  
 ## Programming Languages
 ![python](https://skillicons.dev/icons?i=python)
