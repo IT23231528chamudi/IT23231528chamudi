@@ -84,9 +84,4 @@
 ![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&theme=radical&layout=compact)
 
-## 📱 Connect with Me
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>](https://www.linkedin.com/in/sashanka-rathnayaka-5761ab267/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>](https://github.com/Sashanka2001)
-[<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" alt="HackerRank"/>](https://www.hackerrank.com/profile/chamudisashanka1)
-
 Thanks for visiting my profile! 
