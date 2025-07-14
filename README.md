@@ -35,7 +35,6 @@
 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 ##Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
