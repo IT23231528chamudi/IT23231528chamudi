@@ -36,7 +36,7 @@
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
-##Operating Systems
+## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
 
 ## Tools & DevOps
