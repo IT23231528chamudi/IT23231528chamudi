@@ -1,4 +1,4 @@
-   # Hi, I'm Sashanka Rathnayaka - IT23231528👩🏻
+# Hi, I'm Sashanka Rathnayaka - IT23231528👩🏻
  
  I’m a Third-year Computer Science undergraduate at SLIIT with a strong foundation in software development, distributed systems, and human-computer interaction. 
 
