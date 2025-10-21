@@ -37,6 +37,7 @@
 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
