@@ -45,6 +45,7 @@
 
 ## Tools 
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![figma](https://skillicons.dev/icons?i=figma)
