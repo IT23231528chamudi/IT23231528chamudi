@@ -53,6 +53,7 @@
 ## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+![Azure](https://skillicons.dev/icons?i=azure)
 
 ## Dev Methodologies & Paradigms
 ![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
