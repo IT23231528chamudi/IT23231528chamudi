@@ -38,6 +38,7 @@
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
@@ -53,7 +54,6 @@
 
 ## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Azure](https://skillicons.dev/icons?i=azure)
 
 ## Dev Methodologies & Paradigms
