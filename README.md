@@ -18,7 +18,7 @@
 ![r](https://skillicons.dev/icons?i=r)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
-![cpp](https://skillicons.dev/icons?i=cpp)
+![csharp](https://skillicons.dev/icons?i=cs)
  
 ## Frameworks and Libraries
 ![React](https://skillicons.dev/icons?i=react)
