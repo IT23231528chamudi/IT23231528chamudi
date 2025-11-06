@@ -27,8 +27,7 @@
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![angular](https://skillicons.dev/icons?i=angular)
-![jquery](https://skillicons.dev/icons?i=jquery)
+![Flutter](https://skillicons.dev/icons?i=flutter)
 
 ## Web Technologies
 ![HTML](https://skillicons.dev/icons?i=html)
