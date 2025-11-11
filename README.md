@@ -4,7 +4,7 @@
 
 ## About Me 
 - 🔭 Currently working on my portfolio site 
-- 🌱 Learning TypeScript, postgresql and Node.js
+- 🌱 Learning TypeScript, postgresql and .NET
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
 - 📫 Reach me at: it23231528@my.sliit.lk
 - Personal Github Account: https://github.com/Sashanka2001
@@ -32,7 +32,6 @@
 ## Web Technologies
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-
 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
