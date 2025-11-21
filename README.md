@@ -39,30 +39,48 @@
 ## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
 
-## Tools 
-![GitHub](https://skillicons.dev/icons?i=github)
+## Testing Tools
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Vite](https://skillicons.dev/icons?i=vite)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+## Design Tools 
 ![figma](https://skillicons.dev/icons?i=figma)
-![arduino](https://skillicons.dev/icons?i=arduino)
+![Blender](https://skillicons.dev/icons?i=blender)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+
+## IDEs
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+
+## Project management Tools 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Azure](https://skillicons.dev/icons?i=azure)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ## Dev Methodologies & Paradigms
 ![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-Design-0288D1?style=flat-square)
-![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-Methodology-F57C00?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-Design-0288D1?style=flat-square)
+![SDLC](https://img.shields.io/badge/SDLC-Software%20Development%20Lifecycle-9B59B6?style=flat-square)
+![ACID](https://img.shields.io/badge/ACID-Database%20Transactions-green?style=flat-square)
+![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
 ![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-00599C?style=flat-square&logo=c&logoColor=white)
 
 ## Networking and Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
+## Others
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vite](https://skillicons.dev/icons?i=vite)
+![arduino](https://skillicons.dev/icons?i=arduino)
+
+ 
 ## 📊 GitHub Stats
 ![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&theme=radical&layout=compact)
