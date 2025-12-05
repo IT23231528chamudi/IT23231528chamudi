@@ -50,6 +50,9 @@
 ![Blender](https://skillicons.dev/icons?i=blender)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
 
+## Game Engines
+![Unity](https://skillicons.dev/icons?i=unity)
+
 ## IDEs
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![vscode](https://skillicons.dev/icons?i=vscode)
