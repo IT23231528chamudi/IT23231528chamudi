@@ -86,6 +86,10 @@
 
  
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&show_icons=true&theme=transparent)
+![Top Langs](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=Sashanka2001&layout=compact&theme=radical)
+
+
 ![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&theme=radical&layout=compact)
 
