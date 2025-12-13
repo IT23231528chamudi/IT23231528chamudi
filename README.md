@@ -3,7 +3,7 @@
  I’m a Third-year Computer Science undergraduate at SLIIT with a strong foundation in software development, distributed systems, and human-computer interaction. 
 
 ## About Me 
-- 🔭 Currently working on my portfolio site 
+- 🔭 Currently working on Focus-Mode
 - 🌱 Learning TypeScript, postgresql and .NET
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
 - 📫 Reach me at: it23231528@my.sliit.lk
