@@ -89,8 +89,11 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&show_icons=true&theme=github_dark)
+<div align="left">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT23231528chamudi&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF" width="85%" />
+</div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&layout=compact&theme=github_dark)
 
 
