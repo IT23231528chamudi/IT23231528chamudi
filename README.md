@@ -67,6 +67,7 @@
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ## Dev Methodologies & Paradigms
 ![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
