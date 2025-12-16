@@ -7,9 +7,10 @@
 - 🌱 Learning TypeScript, postgresql and .NET
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
 - 📫 Reach me at: it23231528@my.sliit.lk
+- 🌐 Portfolio : https://sashankar.vercel.app/
 - 👣 Medium: https://medium.com/@chamudi_sashanka
 - Personal Github Account: https://github.com/Sashanka2001
-- Portfolio : https://sashankar.vercel.app/
+
 
  
 ## Programming Languages
