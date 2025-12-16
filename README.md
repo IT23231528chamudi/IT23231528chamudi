@@ -29,9 +29,19 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![r](https://skillicons.dev/icons?i=r)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vite](https://skillicons.dev/icons?i=vite)
+![arduino](https://skillicons.dev/icons?i=arduino)
 ![figma](https://skillicons.dev/icons?i=figma)
+![Unity](https://skillicons.dev/icons?i=unity)
 ![Blender](https://skillicons.dev/icons?i=blender)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
@@ -46,44 +56,12 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-## Design Tools 
-
-## Game Engines
-![Unity](https://skillicons.dev/icons?i=unity)
-
-## IDEs
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![vscode](https://skillicons.dev/icons?i=vscode)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
-
-## Project management Tools 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-
 ## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
-## Dev Methodologies & Paradigms
-![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile-Methodology-F57C00?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-Design-0288D1?style=flat-square)
-![SDLC](https://img.shields.io/badge/SDLC-Software%20Development%20Lifecycle-9B59B6?style=flat-square)
-![ACID](https://img.shields.io/badge/ACID-Database%20Transactions-green?style=flat-square)
-![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
-![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-00599C?style=flat-square&logo=c&logoColor=white)
-
-## Networking and Security
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-## Others
-![GitHub](https://skillicons.dev/icons?i=github)
-![Vite](https://skillicons.dev/icons?i=vite)
-![arduino](https://skillicons.dev/icons?i=arduino)
-
 
 ## 📊 GitHub Statistics
 
