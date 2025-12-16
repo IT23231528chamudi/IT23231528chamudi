@@ -12,20 +12,15 @@
 - 👣 Medium: https://medium.com/@chamudi_sashanka
 - 💼 Personal Github Account: https://github.com/Sashanka2001
 
-
- 
-## Programming Languages
+## Programming Languages , Frameworks and Tools
+![React](https://skillicons.dev/icons?i=react)
+![Spring](https://skillicons.dev/icons?i=spring)
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
 ![python](https://skillicons.dev/icons?i=python)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
 ![csharp](https://skillicons.dev/icons?i=cs)
-![r](https://skillicons.dev/icons?i=r)
- 
-## Frameworks and Libraries
-![React](https://skillicons.dev/icons?i=react)
-![Spring](https://skillicons.dev/icons?i=spring)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
@@ -33,6 +28,10 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
+![r](https://skillicons.dev/icons?i=r)
+![figma](https://skillicons.dev/icons?i=figma)
+![Blender](https://skillicons.dev/icons?i=blender)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
@@ -48,9 +47,6 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ## Design Tools 
-![figma](https://skillicons.dev/icons?i=figma)
-![Blender](https://skillicons.dev/icons?i=blender)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
 
 ## Game Engines
 ![Unity](https://skillicons.dev/icons?i=unity)
