@@ -44,6 +44,7 @@
 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
