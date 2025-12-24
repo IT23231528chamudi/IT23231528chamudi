@@ -14,7 +14,10 @@
 
 ## Programming Languages , Frameworks and Tools
 ![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Spring](https://skillicons.dev/icons?i=spring)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
@@ -22,9 +25,6 @@
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
 ![csharp](https://skillicons.dev/icons?i=cs)
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
