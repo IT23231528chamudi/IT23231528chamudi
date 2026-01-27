@@ -18,6 +18,7 @@
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Express](https://skillicons.dev/icons?i=express)
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
