@@ -3,13 +3,8 @@
  I’m a Third-year Computer Science undergraduate at SLIIT with a strong foundation in software development, distributed systems, and human-computer interaction. 
 
 ## About Me 
-- 🔭 Currently working on Focus-Mode project & CS Study Buddy Mobile App
-- 🌱 Learning TypeScript, postgresql and .NET
-- 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
+- 🌱 Learning  cue.js
 - 📫 Reach me at: it23231528@my.sliit.lk
-- 🖥️ Linkedin: www.linkedin.com/in/sashanka-rathnayaka-5761ab267
-- 🌐 Portfolio : https://sashankar.vercel.app/
-- 👣 Medium: https://medium.com/@chamudi_sashanka
 - 💼 Personal Github Account: https://github.com/Sashanka2001
 
 ## Programming Languages , Frameworks and Tools
