@@ -1,10 +1,9 @@
 # Hi, I'm Sashanka Rathnayaka - IT23231528👩🏻
  
- I’m a Third-year Computer Science undergraduate at SLIIT with a strong foundation in software development, distributed systems, and human-computer interaction. 
+I’m a Third-year Computer Science undergraduate at SLIIT with a strong foundation in software development, distributed systems, and human-computer interaction. 
 
 ## About Me 
-- 🌱 Learning  cue.js
-- 📫 Reach me at: it23231528@my.sliit.lk
+- 🌱 Learning  Vue.js
 - 💼 Personal Github Account: https://github.com/Sashanka2001
 
 ## Programming Languages , Frameworks and Tools
