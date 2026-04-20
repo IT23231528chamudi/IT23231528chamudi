@@ -6,37 +6,27 @@ I’m a Third-year Computer Science undergraduate at SLIIT with a strong foundat
 - 🌱 Learning  Vue.js
 - 💼 Personal Github Account: https://github.com/Sashanka2001
 
-## Programming Languages , Frameworks and Tools
+##  Frameworks, Programming Languages and Tools
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Express](https://skillicons.dev/icons?i=express)
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
+![kotlin](https://skillicons.dev/icons?i=kotlin)
 ![python](https://skillicons.dev/icons?i=python)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
 ![csharp](https://skillicons.dev/icons?i=cs)
+![r](https://skillicons.dev/icons?i=r)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![r](https://skillicons.dev/icons?i=r)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Vite](https://skillicons.dev/icons?i=vite)
-![arduino](https://skillicons.dev/icons?i=arduino)
-![figma](https://skillicons.dev/icons?i=figma)
 ![Unity](https://skillicons.dev/icons?i=unity)
-![Blender](https://skillicons.dev/icons?i=blender)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![vscode](https://skillicons.dev/icons?i=vscode)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![arduino](https://skillicons.dev/icons?i=arduino)
 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
